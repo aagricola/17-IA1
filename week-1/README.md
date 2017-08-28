@@ -14,10 +14,10 @@
 
 [Augmented Hand Series](http://www.flong.com/projects/augmented-hand-series/) is a real-time interactive software system that presents playful, dreamlike, and uncanny transformations of its visitors’ hands; by by Golan Levin, Chris Sugrue, and Kyle McDonald
 
-### Why should I learn coding with Processing?
+### Why should I learn coding with P5.JS?
 
  - Learning to code allows you to build your very own tools instead of using someone else's
- - Processing is an intuitive and visually responsive language to learn to code in
+ - P5 (like Processing) is an intuitive and visually responsive language to learn to code in
  - Learning through immediate visual feedback! (text in —> visuals out)
  - Fully functional programming language —> built on Java
  - It’s FREE — Open Source (lots of online resources for learning)
