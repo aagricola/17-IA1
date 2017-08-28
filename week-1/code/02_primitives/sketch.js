@@ -1,8 +1,8 @@
-//Nearest-Neighbor, 2017
+//Creative Coding, 2017
 //drawing with primitive shapes
 
 function setup() {
-  createCanvas(400, 400); 
+  createCanvas(400, 400);
 }
 
 function draw() {
@@ -26,7 +26,7 @@ function draw() {
 
   //windows
   rect(60, 100, 20, 20);
-  rect(90, 100, 20, 20); 
+  rect(90, 100, 20, 20);
   rect(120, 100, 20, 20);
   rect(90, 150, 20, 40); //door
 

@@ -1,4 +1,4 @@
-//Nearest-Neighbor, 2017
+//Creative Coding, 2017
 // Changing Colors
 
 function setup() {

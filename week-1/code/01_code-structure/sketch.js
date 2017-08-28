@@ -1,14 +1,14 @@
-//Nearest-Neighbor, 2017
+//Creative Coding, 2017
 //code structure
 
 // This is a single line comment! Anything after // on the same line is ignored when the code is run.
 
-/* 
+/*
  Multi-line comments
  Ignore anything between
  These symbols
  */
- 
+
  // The area at the top of your sketch is used to set up things which will be used throughout your entire sketch.
 
 // The section below holds a block of code between { } which is only run once when the sketch begins.

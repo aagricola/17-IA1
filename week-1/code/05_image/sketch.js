@@ -1,12 +1,12 @@
-//Nearest-Neighbor, 2017
+//Creative Coding, 2017
 // Image
 
 //create a variable for the image
 var pug;
 
 /*
-The preload() function runs once before the setup() function runs. 
-You should generally load your images and other media in preload() 
+The preload() function runs once before the setup() function runs.
+You should generally load your images and other media in preload()
 in order to ensure they are fully loaded before your program starts.
 */
 function preload() {
