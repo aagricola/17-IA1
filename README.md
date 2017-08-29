@@ -12,7 +12,7 @@ The goal of this course is to become familiar with tools and processes used in t
 - Mistakes are great ways to learn. Be courageous, fail flamboyantly, and know that you tried your best. Don't let fear or mistakes stand in your way of learning and creating.
 - Participation and collaboration are integral parts of this class's culture.
 
-- You get one unexcused absence, the next diminished your grade and three gets an F. Please provide me with a doctors note if you are sick.
+- You get one unexcused absence, the next diminishes your grade and the third gets an F. Please provide me with a doctors note if you are sick. Talk to me if you have an extended leave of absence.
 
 ## Online resources
 This is a working list I will be adding to, and I hope you let me know if you find great resources you'd like me to add.
