@@ -23,14 +23,18 @@
 
  [Douglas Rushoff SXSW Lecture "Code or Be Coded"](https://www.youtube.com/watch?v=imV3pPIUy1k)
 
-### Why should I learn coding with P5.JS?
+### Why should I learn coding with Processing or P5.JS?
 
  - Learning to code allows you to build your very own tools instead of using someone else's
- - P5 (like Processing) is an intuitive and visually responsive language to learn to code in
+ - P5 and Processing are intuitive and visually responsive language to learn to code in
  - Learning through immediate visual feedback! (text in —> visuals out)
- - Fully functional programming language —> built on Java
- - It’s FREE — Open Source (lots of online resources for learning)
- - Its simplicity is ideal for the beginners
+ - Processing is a fully functional programming language —> built on Java
+ - P5 is a library that is built on JavaScript, which makes it better suited for web
+ - Both are FREE — Open Source (lots of online resources for learning)
+ - There are many libraries for Processing that do not yet exist for P5
+ - Their simplicity is ideal for the beginners
+
+[Download Processing from here](https://processing.org/download/)
 
  [The Art of Creative Coding](https://www.youtube.com/watch?v=eBV14-3LT-g)
 
