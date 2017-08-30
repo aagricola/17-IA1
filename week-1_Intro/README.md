@@ -33,6 +33,7 @@
  - Both are FREE — Open Source (lots of online resources for learning)
  - There are many libraries for Processing that do not yet exist for P5
  - Their simplicity is ideal for the beginners
+ - [Here is a breakdown of their differences](https://github.com/processing/p5.js/wiki/Processing-transition)
 
 [Download Processing from here](https://processing.org/download/)
 
@@ -57,11 +58,6 @@ A p5.js sketch is made from a few different languages used together. HTML (Hyper
 We will use this today, but next week we will work directly from Atom (or your editor of choice).
 
 [Let's go ahead and download Atom](https://atom.io/)
-You may want to go to preferences and install:
-- prettier
-- Dev Live Reload
-- p5xjs
-- any other themes or packages that strike your fancy
 
 ## Assignment 1: Partner Portrait
 
