@@ -56,6 +56,13 @@ A p5.js sketch is made from a few different languages used together. HTML (Hyper
 [Here is the online editor](http://alpha.editor.p5js.org/)
 We will use this today, but next week we will work directly from Atom (or your editor of choice).
 
+[Let's go ahead and download Atom](https://atom.io/)
+You may want to go to preferences and install:
+- prettier
+- Dev Live Reload
+- p5xjs
+- any other themes or packages that strike your fancy
+
 ## Assignment 1: Partner Portrait
 
  Partner up with someone in class. Learn a little bit about each other by asking questions. Then sketch a portrait of the person incorporating some details of what you learned about them - hobbies, place of origin, favorite food, or whatever. Think in primitive shapes like the ones we learned in Processing. Then translate your drawing into code in Processing. It can be representational or somewhat spontaneous and abstract. Most importantly **HAVE FUN!**
