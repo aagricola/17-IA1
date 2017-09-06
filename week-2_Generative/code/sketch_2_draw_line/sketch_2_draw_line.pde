@@ -10,4 +10,11 @@ void draw() {
   stroke(0);
   //pmouseX, pmouseY = previous mouse x and y positions 
   line(pmouseX,pmouseY,mouseX,mouseY);
+  
+  // comment out the above, and uncomment this to try 
+  /*
+  if(mousePressed == true){
+    line(pmouseX,pmouseY,mouseX,mouseY);
+  }
+  */
 } 
