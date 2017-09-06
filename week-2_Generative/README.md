@@ -43,6 +43,7 @@ Yoko Ono, Mend Piece, 2015
 [Charles Csuri, Interactive Art Objects, 1968](https://youtu.be/VT-Eyybajfo)
 
 [Lilian Schwartz](https://vimeo.com/98960229)
+
 ![night](http://lillian.com/wp-content/uploads/2013/02/NIGHTscene.jpg)
 
 Lillian F. Schwartz, "Night Scene" Computer-generated etched aluminum plate.
