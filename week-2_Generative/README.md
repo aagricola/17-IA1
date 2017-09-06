@@ -66,6 +66,10 @@ _"The computer helps, but it does not 'do', does not 'design' or 'invent' anythi
 - [Type & Form case study (2008, Toxi Libs)](http://www.todayandtomorrow.net/2008/07/04/type-form/)
 - [More Examples for Learning Processing](http://learningprocessing.com/examples/chp04/example-04-01-declaringvars)
 
+## Tutorials on Curves
+- [Arc, Curve, Spline Tutorial](https://processing.org/tutorials/curves/)
+- [Lynda tutorial on Arcs](https://www.youtube.com/watch?v=PXeNdcNf4m4)
+
 ## Assignment 2
 Create a generative drawing machine inspired by the chaos of life. Use what we learned today in class and attempt to incorporate something new from the reference section or from another example you find online.
 
