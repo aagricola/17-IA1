@@ -8,7 +8,7 @@
 - Do P5.js examples
 - Translate portrait into P5.js
 
-## 
+##
 
 ## P5.JS
 
