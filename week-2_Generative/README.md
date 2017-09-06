@@ -55,7 +55,6 @@ _"The computer helps, but it does not 'do', does not 'design' or 'invent' anythi
 - [Liberated Computer Language - Date Types](http://r-s-g.org/LCL/)
 - [Article on The Algorists](http://classic.rhizome.org/editorial/2012/jul/5/prosthetic-knowledge-picks-algorists/)
 - [Type & Form case study (2008, Toxi Libs)](http://www.todayandtomorrow.net/2008/07/04/type-form/)
-- [Generative Puzzle](https://www.flickr.com/photos/jrosenk/6071160907/in/photostream/)
 - [More Examples for Learning Processing](http://learningprocessing.com/examples/chp04/example-04-01-declaringvars)
 
 ## Assignment 2
