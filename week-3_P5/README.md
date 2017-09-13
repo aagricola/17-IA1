@@ -55,7 +55,7 @@ olia lialina,_ my boyfriend came back from the war_ (m.b.c.b.f.t.w.)
 It tells the story of two lovers who reunite after an unspecified conflict. Fragments of dialogue convey the difficulty they have reconnecting, though not explicitly stated. She approaches the web as a medium similar to film. She calls it a netfilm. The flow splits and digresses into multiple threads, similar to a cinematic montage in which separate simultaneous actions are edited to produce the effect of simultaneity.
 [MBCBFTW](http://www.teleportacia.org/war/wara.htm)
 
-[yhc](http://amandaagricola.com/2017/IA2/wp-content/uploads/2017/04/young-hae_chang_heavy_industries__warning_reading_this_may_or_may_not_change_your_life.jpeg)
+![yhc](http://amandaagricola.com/2017/IA2/wp-content/uploads/2017/04/young-hae_chang_heavy_industries__warning_reading_this_may_or_may_not_change_your_life.jpeg)
 
 Based in Seoul, South Korea,Young-hae Chang Heavy Industries, composed of the Korean Young-hae Chang and the American Marc Voge, combine text with jazz music with Flash productions in which they use solely the Monaco font. In these works they are breaking the Internet tendency to emphasize interactivity and foregrounding photo’s, illustrations and excessive use of colors.
 [Their site](http://www.yhchang.com/)
