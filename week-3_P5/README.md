@@ -17,6 +17,7 @@ A p5.js sketch is made from a few different languages used together. HTML (Hyper
 - [Let's go ahead and download Atom](https://atom.io/)
 
 ## Atom (or any code editor)
+
 Allows you to edit any code, and install helpful packages.
 
 install packages:
@@ -26,15 +27,17 @@ install packages:
 - Explore and install any other packages that seem useful to you on your own time.
 
 ## Terminal
+
 We use the terminal to serve the sketches to our local host. Follow these steps:
-1. Drag the whole folder where your sketch.js file lives to Atom (make sure your libraries and assets are inside this folder)
-2. Open your terminal in your sketch in Atom
-3. Enter (You may need to enter your password if your computer is password protected)
-4. Copy this: python -m SimpleHTTPServer 8000
-5. enter
-6. In your browser, go to localhost:8000 and you should see your sketch running
-7. Whenever you save updates to the code, you can refresh and see changes on the localhost
-8. To close the terminal when you are finished, hit ctl + c
+
+- Drag the whole folder where your sketch.js file lives to Atom (make sure your libraries and assets are inside this folder)
+- Open your terminal in your sketch in Atom
+- Enter (You may need to enter your password if your computer is password protected)
+- Copy this: python -m SimpleHTTPServer 8000
+- enter
+- In your browser, go to localhost:8000 and you should see your sketch running
+- Whenever you save updates to the code, you can refresh and see changes on the localhost
+- To close the terminal when you are finished, hit ctl + c
 
 ## Non-linear Story
 
@@ -74,5 +77,6 @@ Guggenheim Museum commissioned Taiwanese-American artist to explore Teena’s st
  - If you don't like Atom, download the [P5 editor](https://github.com/processing/p5.js-editor/releases)
 
 ## homework
-1. Finish Assignment 3 submit a video or image and source code on canvas (file names must contain your last name)
-2. Post to our discussion board on Canvas responding to last weeks On Being podcast 
+
+- Finish Assignment 3 submit a video or image and source code on canvas (file names must contain your last name)
+- Post to our discussion board on Canvas responding to last weeks On Being podcast
