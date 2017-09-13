@@ -74,8 +74,5 @@ Guggenheim Museum commissioned Taiwanese-American artist to explore Teena’s st
  - If you don't like Atom, download the [P5 editor](https://github.com/processing/p5.js-editor/releases)
 
 ## homework
-1. Finish Assignment 3 (submit a video or screen shot and source code on canvas)
+1. Finish Assignment 3 submit a video or image and source code on canvas (file names must contain your last name)
 2. Post to our discussion board on Canvas responding to last weeks On Being podcast 
-
-## homework
-- Finish Assignment 3 and submit image and source code (file names containing your last name) on canvas
