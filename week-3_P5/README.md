@@ -75,6 +75,7 @@ Guggenheim Museum commissioned Taiwanese-American artist to explore Teena’s st
  - [Twine](https://twinery.org/) could be useful in writing your non-linear story
  - [Nicky Case](https://www.youtube.com/watch?v=Zl9m0AQInBk)'s talk on explorable explanations is good inspiration for the assignment
  - If you don't like Atom, download the [P5 editor](https://github.com/processing/p5.js-editor/releases)
+ - [Daniel Shiffman tutorials](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 
 ## homework
 
