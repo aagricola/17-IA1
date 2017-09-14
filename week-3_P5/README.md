@@ -68,7 +68,7 @@ Shu Lea Cheang, "Brandon", bigdoll interface,
  Teena Brandon, 21 year old woman who was raped an killed for passing as a man  (movie “Boys Don't Cry” was based on this)
 Guggenheim Museum commissioned Taiwanese-American artist to explore Teena’s story in a non-linear, experimental way.
 
- ## Assignment 3: Non-linear story
+ ## Project 1: Non-linear story
  Using the skills we have learned in class so far, create a Non-linear story about an experience you have had.
 
  ## Resources
@@ -79,5 +79,5 @@ Guggenheim Museum commissioned Taiwanese-American artist to explore Teena’s st
 
 ## homework
 
-- Finish Assignment 3 submit a video or image and source code on canvas (file names must contain your last name)
+- Start on your non-linear story by story-boarding, create wireframe, use twine and/or p5.js 
 - Post to our discussion board on Canvas responding to last weeks On Being podcast
