@@ -53,4 +53,4 @@ code more manageable and readable
 ## Homework
 
 - Make sure to post your response to our discussion from last week by 11:59 tonight (in Canvas)
-- Finish you non-linear narrative project
+- Finish you non-linear narrative project. We will have a more in-depth critique/discussion of these than usual at the beginning of class next week. 
