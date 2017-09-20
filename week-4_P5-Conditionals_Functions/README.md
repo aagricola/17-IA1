@@ -9,7 +9,11 @@
 
 ## What happened last week?
 
-There may have been several factors that played into the issues many of us were having serving to the local host from Atom last week. Keep this in mind if If you run a local server, run it from the root folder which is where the index.html exists. The index is always the entry point for a website. Wherever it lives is considered the root folder. Everything else is relative to that folder. If there were any misdirected paths in the index.html, it can have prevent you from seeing the file in the browser. The best way to avoid this issue in the future is to serve from the project folder as the root folder where the index.html exists.
+There may have been several factors that played into the issues many of us were having serving to the local host from Atom last week. Keep this in mind if If you run a local server, run it from the root folder which is where the index.html exists. The index is always the entry point for a website. Wherever it lives is considered the root folder. Everything else is relative to that folder. If there are any misdirected paths in the index.html, it can prevent you from seeing the file in the browser. The best way to avoid this issue in the future is to serve from the root folder where the index.html exists.
+
+## That being said
+
+I'm happy for you to continue using Atom, but feel free to use the p5.js editor that you can download [here](https://github.com/processing/p5.js-editor/releases).  **You will have to open your security preferences, unlock, and allow p5.js to open the first time you run the program.** Using this editor is by no means a limitation. Each new project that you create with the p5.js editor is a happy and complete package ready to be hosted on a website whenever you're ready. Another benefit to using it is that it has helpful syntax error notifications and reminders.  
 
   ## Conditional statements
 
