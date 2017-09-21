@@ -52,6 +52,8 @@ code more manageable and readable
 
 [Twine Lecture from Chris Klimas](http://chrisklimas.com/etc/harlowe-intro/)
 
+[Twine Styling](https://twine2.neocities.org/)
+
 ## Homework
 
 - Make sure to post your response to our discussion from last week by 11:59 tonight (in Canvas)
