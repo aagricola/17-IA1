@@ -10,10 +10,6 @@ var state = 0;
 //keep track of what keys have been typed
 var typed = "";
 
-//seeds only sprout if they are watered and get sun 
-//variables to keep track of that
-var hasWater = false; //has not yet been watered
-
 function preload(){
   seed = loadImage("assets/seed.png");
   sprout = loadImage("assets/sprout.png");

@@ -1,4 +1,3 @@
-//Nearest Neighbor, 2017
 //Test whether the cursor is inside a rectangle
 
 var x = 100;

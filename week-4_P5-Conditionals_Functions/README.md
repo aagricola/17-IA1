@@ -50,7 +50,9 @@ code more manageable and readable
 
 [Getting Started with p5.js](http://people.uncw.edu/tompkinsj/112/JavaScript/GettingStartedwithP5js.pdf) - This is the handbook for learning p5.js
 
+[Twine Lecture from Chris Klimas](http://chrisklimas.com/etc/harlowe-intro/)
+
 ## Homework
 
 - Make sure to post your response to our discussion from last week by 11:59 tonight (in Canvas)
-- Finish you non-linear narrative project. We will have a more in-depth critique/discussion of these than usual at the beginning of class next week. 
+- Finish you non-linear narrative project. We will have a more in-depth critique/discussion of these than usual at the beginning of class next week.
