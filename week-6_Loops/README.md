@@ -1,6 +1,6 @@
 ## Today
 
-- Critique of Non-Linear Narratives
+- Did anyone go to talks yesterday?
 - Repetition in art
 - For Loops
 - Functions continued
