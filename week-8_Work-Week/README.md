@@ -47,5 +47,5 @@ Generative Book Project by Martin Fuchs and Peter Bichsel
 ## Homework
 
 - Order [Arduino Uno](https://www.adafruit.com/product/50) and [A-B USB](https://www.adafruit.com/product/62)
-- Finish systems project for next class.
+- Finish Project 2: System - critique next week!
 - Print Sherry Turkle reading from the resources folder --> Read. We will discuss it on **Nov. 1**
