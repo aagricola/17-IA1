@@ -46,13 +46,7 @@ Sketchbook Sample: Circuits + origami, by Jie Qi
 
 [Series vs. Parallel Circuits](https://learn.sparkfun.com/tutorials/series-and-parallel-circuits)
 
-
-##Assignments
-
-- pushbutton controlling something on screen
-- something on screen control LED
-
 ## Homework
 
-- Finish your Assignments
+- No Homework!
 - Bring your arduino kit with you next week
