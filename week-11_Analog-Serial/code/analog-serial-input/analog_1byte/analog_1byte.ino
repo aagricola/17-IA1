@@ -1,6 +1,7 @@
 // Mapping the range of input (0~1023) to a new range.
 
 int mappedValue; // A variable to hold analog input. Analog input will always be a range of numbers between 0~1023
+int analogValue;
 
 void setup(){
   // Analog input does not use pinMode()!
